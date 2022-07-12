@@ -1,0 +1,2 @@
+# mcdicalist
+html, sass, bootstrap
